@@ -12,7 +12,7 @@ http://edwardlib.org/
 - Tensorflow、Stan、PyMC3、NumPy、SciPy がサポートされている
 - 推論でサポートされるのは、
 - 変分ベイズ(Variatonal inference)、Variational Auto Encoders、KLダイバージェンス
-- 周辺事後確率最適化
+- 周辺確率最適化
 - 事後確率最大化
 - 教師有り、教師無し学習の検証
 - 事後確率の検証
